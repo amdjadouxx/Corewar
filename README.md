@@ -1,5 +1,8 @@
 # Projet Corewar - Epitech
 
+
+lien vers la documentation des fonctions du projet: https://amdjadouxx.github.io/Corewar/
+
 ## Description
 Bienvenue dans le projet Corewar d'Epitech ! Ce projet passionnant met à l'épreuve vos compétences en programmation bas niveau en vous demandant de créer des programmes (appelés "guerriers") qui s'affronteront dans une machine virtuelle circulaire appelée le "core".
 
