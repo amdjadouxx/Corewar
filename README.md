@@ -20,6 +20,7 @@ Bienvenue dans le projet Corewar d'Epitech ! Ce projet passionnant met à l'épr
 
 3. **Exécution**:
    - Lancez la machine virtuelle avec les guerriers : `./corewar guerrier1.cor guerrier2.cor ...`
+   PSSST: ici tu as quelques guerreirs déjà existants: `Corewar/bonus/my_ai_arena/champions_src_files`
 
 4. **Tester votre guerrier**:
    - Modifiez le guerrier dans le fichier d'assemblage.
